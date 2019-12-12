@@ -1,0 +1,4 @@
+1.0.0
+    *original release*
+    NEW COMMANDS: exit, help, clog, put, get, var
+    KNOWN BUGS:
